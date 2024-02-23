@@ -61,3 +61,13 @@ Steps to reproduce the behavior:
 ## Anything else
 
 <!-- Links? References? Anything that will give us more context about the issue you are encountering! -->
+
+## Work Breakdown Tasks
+
+<!-- Tasks for fixing defect and validating fix -->
+
+```[tasklist]
+### Tasks
+- [ ] #### [Task] Dev: Investigate and fix bug
+- [ ] #### [Task] QA: Test bug fix
+```
