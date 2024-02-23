@@ -30,3 +30,14 @@ assignees: ''
 ## SharePoint link to technical specification document
 
 <!-- Include SharePoint link for technical specification document! -->
+
+## Work Breakdown Tasks
+
+<!-- Include tasks needed to complete the work for this task -->
+
+```[tasklist]
+### Tasks
+- [ ] #### [Task] Tech Spec: Create a technical specification document
+- [ ] #### [Task] Dev: Implementation task
+- [ ] #### [Task] QA: Validate feature task
+```
