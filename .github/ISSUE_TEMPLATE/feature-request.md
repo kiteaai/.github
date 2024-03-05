@@ -37,7 +37,7 @@ assignees: ''
 
 ```[tasklist]
 ### Tasks
-- [ ] #### [Task] Tech Spec: Create a technical specification document
-- [ ] #### [Task] Dev: Implementation task
-- [ ] #### [Task] QA: Validate feature task
+- [ ] #### [Task]: Tech Spec Create a technical specification document
+- [ ] #### [Task]: Dev Implementation task
+- [ ] #### [Task]: QA Validate feature task
 ```
