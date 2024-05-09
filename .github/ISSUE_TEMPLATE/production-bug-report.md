@@ -69,5 +69,4 @@ Steps to reproduce the behavior:
 ```[tasklist]
 ### Tasks
 - [ ] #### [Task]: Dev Investigate and fix bug
-- [ ] #### [Task]: QA Test bug fix
 ```
