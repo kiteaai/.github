@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: "[Bug]: "
 labels: 'status: waiting triage, type: bug'
 assignees: ''
-
+type: Bug
 ---
 
 Thanks for taking the time to fill out this bug report!
@@ -42,10 +42,3 @@ Steps to reproduce the behavior:
 <!-- Links? References? Anything that will give us more context about the issue you are encountering! -->
 
 ## Work Breakdown Tasks
-
-<!-- Tasks for fixing defect and validating fix -->
-
-```[tasklist]
-### Tasks
-- [ ] #### [Task]: Dev Investigate and fix bug
-```
