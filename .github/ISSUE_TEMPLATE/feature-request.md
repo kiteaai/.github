@@ -4,6 +4,7 @@ about: Suggest an idea for this project
 title: "[Feature]: "
 labels: 'type: feature request'
 assignees: ''
+type: Enhancement
 
 ---
 
@@ -35,8 +36,3 @@ assignees: ''
 
 <!-- Include tasks needed to complete the work for this task -->
 
-```[tasklist]
-### Tasks
-- [ ] #### [Task]: Tech Spec Create a technical specification document
-- [ ] #### [Task]: Dev Implementation task
-```
