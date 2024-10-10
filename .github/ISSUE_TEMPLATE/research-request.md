@@ -4,7 +4,7 @@ about: Request Research for this project
 title: "[Research]: "
 labels: 'type: research request'
 assignees: ''
-
+type: Enhancement
 ---
 
 ## Describe the Research
