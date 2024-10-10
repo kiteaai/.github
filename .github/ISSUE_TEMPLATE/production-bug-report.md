@@ -3,7 +3,7 @@ name: Production Bug Report
 about: Create a report to describe a production issue
 title: "[Production BUG]: "
 labels: 'type: showstopper'
-
+type: Bug
 ---
 
 Thanks for taking the time to fill out this bug report!
@@ -63,10 +63,3 @@ Steps to reproduce the behavior:
 <!-- Links? References? Anything that will give us more context about the issue you are encountering! -->
 
 ## Work Breakdown Tasks
-
-<!-- Tasks for fixing defect and validating fix -->
-
-```[tasklist]
-### Tasks
-- [ ] #### [Task]: Dev Investigate and fix bug
-```
