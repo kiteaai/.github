@@ -4,7 +4,7 @@ about: Create a UAT bug report to help us improve
 title: "[UAT]: "
 labels: 'status: waiting triage, type: UAT'
 assignees: ''
-
+type: Bug
 ---
 
 Thanks for taking the time to fill out this UAT bug report! 
