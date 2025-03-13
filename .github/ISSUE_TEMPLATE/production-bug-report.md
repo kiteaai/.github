@@ -2,7 +2,7 @@
 name: Production Bug Report
 about: Create a report to describe a production issue
 title: "[Production BUG]: "
-labels: 'type: showstopper'
+labels: 'status: waiting triage, type: showstopper'
 type: Bug
 ---
 

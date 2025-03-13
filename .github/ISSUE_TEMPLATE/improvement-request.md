@@ -1,16 +1,20 @@
 ---
-name: Feature Request
-about: Suggest an idea for this project
-title: "[Feature]: "
-labels: 'type: feature request'
+name: Improvement Request
+about: Suggest improvement of existing functionality
+title: "[Improvement]: "
+labels: 'type: improvement'
 assignees: ''
-type: Feature
+type: Improvement
 
 ---
 
-## Describe the Feature
+## Describe the Improvement
 
-<!-- A clear and concise description of what the feature is -->
+<!-- A clear and concise description of what the improvement is -->
+
+## Describe the problem you'd like solve
+
+<!-- A clear and concise description of what the issue is you are trying to solve. -->
 
 ## Describe the solution you'd like
 
@@ -31,8 +35,4 @@ type: Feature
 ## SharePoint link to technical specification document
 
 <!-- Include SharePoint link for technical specification document! -->
-
-## Work Breakdown Tasks
-
-<!-- Include tasks needed to complete the work for this task -->
 
